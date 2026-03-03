@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31e95e26cd7646f7b5dd416a9de8e6d8, type: 3}
+  m_Name: Armorless
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: c4df2c4407309493481c6d70e9b0881e, type: 3}
+  _armorKickCount: 0
+  _flyAwayDistance: 5
+  _bodyKickSounds:
+  - {fileID: 8300000, guid: 386be9cfa329f44fcb42afb844d80c61, type: 3}
+  - {fileID: 8300000, guid: 501b4653236aa44199e08f180de9bf9f, type: 3}
+  - {fileID: 8300000, guid: ba3cec07f1c4a4057ba535bc4b1d96dd, type: 3}
+  - {fileID: 8300000, guid: 540b06db5f64a49efb8a4786e78cdeb5, type: 3}
+  - {fileID: 8300000, guid: cd1aa93bceb2d403fa7d8bd50cddd3bb, type: 3}
+  - {fileID: 8300000, guid: feb389d034a774695b3d256c492bdd73, type: 3}
+  - {fileID: 8300000, guid: 831a072cfc3f340738b2ae547d4f07a6, type: 3}
+  _armorKickSounds: []

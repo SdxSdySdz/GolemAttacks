@@ -1,0 +1,63 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+
+# IDE
+/.idea/
+/.vs/
+/.vscode/
+*.swp
+*.swo
+*~
+
+# Visual Studio / Rider
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crashlogs
+mono_crash.*.json
+sysinfo.txt
+crashlytics-build.properties
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Screenshots (only keep specific ones)
+Screenshots/*
+!Screenshots/screenshot_8.png
+!Screenshots/screenshot_37.png
+!Screenshots/screenshot_42.png
+
+# Packages (keep manifest and lock)
+!/Packages/manifest.json
+!/Packages/packages-lock.json
